@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.org.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class SpringBoot04WebRestfulcrudApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(SpringBoot04WebRestfulcrudApplication.class, args);
     }
 
 }
